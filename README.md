@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# RUBY PROJECT 3: TIC TAC TOE
+# RUBY PROJECT: PROJECT NAME
 
 In this project, we create a Tic Tac Toe game. The main goal is to put into practice the main concepts of Object Oriented Programming. Particularly, classes and access to their attributes.
 
@@ -9,31 +9,17 @@ In this project, we create a Tic Tac Toe game. The main goal is to put into prac
 </p>
 
 
-## TIC TAC TOE GAME INSTRUCTIONS
+## Project Instructions
 
-* Tic Tac Toe is board game played on a board with a 3 squared by 3 squared grid.
+* Instruction One
 
-* The players are assigned their own symbols to place on the board cells
-
-* Player 1 will be assigned the `X` symbol.
-
-* Player 2 will be assigned the `O` symbol.
-
-* Players take turn to place their symbols on the board.
-
-* The grid is numbered from 1 to 9.
-
-*   ![Game grid](game_grid.png)
-
-* You place the symbol by choosing the cell number.
-
-* The  First Player to get 3 of her symbols in a row (up, down, across, or diagonally) wins the game.
-
-* When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+* Instruction Two.
 
 
 ## Built With
 - Ruby
+
+## Gems Used
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
